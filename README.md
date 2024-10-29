@@ -10,6 +10,7 @@ a github repo to deploy your own copy of szvy central
 - when it is done run node index.js
 - if you have any errors just install the packages it is asking for
 - or you could just click one of the buttons below
+- or if you want to make a render link, go to the blueprints area and deploy from there
 
 ## easy hosting
 
